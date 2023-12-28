@@ -15,4 +15,4 @@ When interacting with content on the internet, set your intention to curation ov
 
 Curating content can be straightforward; when you come across something you find interesting, save it. A list of bookmarked links is a good way to start. Nowadays, I've switched from [pinterest.com](http://pinterest.com/) to [cosmos.so](http://cosmos.so/). I use my curated content to compare my work to where I want to be. It's a good way to set passive goals to work towards. Instead of looking for references or mood boards of what an individual drawing looks like, think of curation as a giant mood board that guides where you should go and what you're interested in.
 
-You can use many different ways, services, and systems, but what's important is to mindfully curate instead of mindlessly consume mindfully.
+You can use many different ways, services, and systems, but what's important is to mindfully curate instead of mindlessly consume mindfully. 
