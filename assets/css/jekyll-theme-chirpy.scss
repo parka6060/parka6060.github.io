@@ -1,0 +1,138 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+html:not([data-mode]),
+html[data-mode='dark'] {
+  --main-bg: #282828; /* Dark gray background */
+  --mask-bg: #3c3836; /* Darker gray for masking elements */
+  --main-border-color: #504945; /* Brownish border color */
+  --text-color: #ebdbb2; /* Light cream color for text */
+  --text-muted-color: #928374; /* Muted brown for less prominent text */
+  --text-muted-hightlight-color: #a89984; /* Slightly lighter brown for highlighted text */
+  --heading-color: #ebdbb2; /* Same as text color for headings */
+  --label-color: #bdae93; /* Soft brown for labels */
+  --blockquote-border-color: #665c54; /* Dark brown for blockquote borders */
+  --blockquote-text-color: #928374; /* Muted brown for blockquote text */
+  --link-color: #d79921; /* Bright yellow for links */
+  --link-underline-color: #b57614; /* Darker yellow for link underlines */
+  --button-bg: #32302f; /* Dark brown for button backgrounds */
+  --btn-border-color: #7c6f64; /* Medium brown for button borders */
+  --btn-backtotop-color: var(
+    --text-color
+  ); /* Using the same text color for back-to-top button */
+  --btn-backtotop-border-color: #504945; /* Brownish border color */
+  --btn-box-shadow: var(
+    --main-bg
+  ); /* Using the main background color for button shadow */
+  --card-header-bg: #3c3836; /* Darker gray for card headers */
+  --checkbox-color: #a89984; /* Light brown for checkboxes */
+  --checkbox-checked-color: var(
+    --link-color
+  ); /* Using the link color for checked state */
+  --img-bg: radial-gradient(
+    circle,
+    #282828 0%,
+    #3c3836 100%
+  ); /* Gradient for images */
+  --shimmer-bg: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(168, 153, 132, 0.4) 50%,
+    rgba(255, 255, 255, 0) 100%
+  ); /* Shimmer effect with Gruvbox tones */
+  --site-title-color: #ebdbb2; /* Light cream for site title */
+  --site-subtitle-color: #928374; /* Muted brown for site subtitle */
+  --sidebar-bg: #32302f; /* Dark brown for the sidebar */
+  --sidebar-border-color: #3c3836; /* Darker gray for sidebar borders */
+  --sidebar-muted-color: #928374; /* Muted brown for sidebar text */
+  --sidebar-active-color: #ebdbb2; /* Cream color for active sidebar elements */
+  --sidebar-hover-bg: #504945; /* Brownish gray for sidebar hover background */
+  --sidebar-btn-bg: #3c3836; /* Dark gray for sidebar buttons */
+  --sidebar-btn-color: #a89984; /* Light brown for sidebar button text */
+  --avatar-border-color: #d5c4a1; /* Soft beige for avatar borders */
+  --topbar-bg: #282828; /* Dark gray for top bar */
+  --topbar-text-color: var(
+    --text-color
+  ); /* Using the main text color for top bar text */
+  --search-border-color: #665c54; /* Dark brown for search borders */
+  --search-icon-color: #bdae93; /* Soft brown for search icons */
+  --input-focus-border-color: #7c6f64; /* Medium brown for focused input borders */
+  --post-list-text-color: var(
+    --text-color
+  ); /* Using the main text color for post list */
+  --btn-patinator-text-color: var(
+    --text-color
+  ); /* Using the main text color for paginator buttons */
+  --btn-paginator-hover-color: #504945; /* Brownish gray for paginator hover */
+  --toc-highlight: #d79921; /* Bright yellow for table of contents highlight */
+  --tag-hover: #427b58; /* Dark green for tag hover */
+  --tb-odd-bg: #32302f; /* Dark brown for odd table rows */
+  --tb-even-bg: #3c3836; /* Darker gray for even table rows */
+  --tb-border-color: var(
+    --tb-odd-bg
+  ); /* Using the odd row color for table borders */
+  --footnote-target-bg: #98971a; /* Olive green for footnote targets */
+  --btn-share-color: #928374; /* Muted brown for share buttons */
+  --btn-share-hover-color: #bdae93; /* Soft brown for share button hover */
+  --card-bg: #32302f; /* Dark brown for cards */
+  --card-hovor-bg: #504945; /* Brownish gray for card hover */
+  --card-shadow: rgba(40, 40, 40, 0.72) 0 6px 18px 0,
+    rgba(181, 137, 0, 0.24) 0 0 0 1px; /* Shadows with Gruvbox tones */
+  --kbd-wrap-color: #b57614; /* Dark yellow for keyboard wrapper */
+  --kbd-text-color: #fbf1c7; /* Light cream for keyboard text */
+  --kbd-bg-color: #3c3836; /* Dark gray for keyboard background */
+  --prompt-text-color: #fabd2f; /* Bright orange for prompt text */
+  --prompt-tip-bg: #d3869b; /* Soft pink for prompt tips */
+  --prompt-tip-icon-color: #fe8019; /* Bright orange for prompt tip icons */
+  --prompt-info-bg: #458588; /* Teal for prompt info */
+  --prompt-info-icon-color: #83a598; /* Soft teal for prompt info icons */
+  --prompt-warning-bg: #d79921; /* Bright yellow for warnings */
+  --prompt-warning-icon-color: #fabd2f; /* Brighter yellow for warning icons */
+  --prompt-danger-bg: #cc241d; /* Dark red for danger prompts */
+  --prompt-danger-icon-color: #fb4934; /* Bright red for danger icons */
+  --tag-border: #689d6a; /* Soft green for tag borders */
+  --tag-shadow: #427b58; /* Dark green for tag shadows */
+  --dash-color: #928374; /* Muted brown for dashes */
+  --search-tag-bg: #504945; /* Brownish gray for search tag background */
+  --categories-border: #665c54; /* Dark brown for category borders */
+  --categories-hover-bg: #3c3836; /* Darker gray for category hover */
+  --categories-icon-hover-color: #ebdbb2; /* Cream for category icon hover */
+  --timeline-node-bg: #b16286; /* Soft purple for timeline nodes */
+  --timeline-color: #689d6a; /* Soft green for timeline */
+  --timeline-year-dot-color: var(
+    --timeline-color
+  ); /* Using timeline color for year dots */
+  .btn-outline-primary {
+    --bs-btn-color: #ebdbb2; /* Gruvbox light text color, for a softer appearance */
+    --bs-btn-border-color: #504945; /* Dark brown border color, to match the sidebar */
+    --bs-btn-hover-color: #fbf1c7; /* Gruvbox lightest color for text on hover, for better contrast */
+    --bs-btn-hover-bg: #665c54; /* A darker brown for hover background, still not too bright */
+    --bs-btn-hover-border-color: #665c54; /* Same as hover background */
+    --bs-btn-focus-shadow-rgb: 102, 92, 84; /* RGB of the darker brown for a subtle focus shadow */
+    --bs-btn-active-color: #fbf1c7; /* Gruvbox lightest color for text when the button is active */
+    --bs-btn-active-bg: #3c3836; /* Even darker brown for the active state background */
+    --bs-btn-active-border-color: #3c3836; /* Same as active background */
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.2); /* Deeper shadow for active state */
+    --bs-btn-disabled-color: #928374; /* Gruvbox muted color for disabled text, not too bright */
+    --bs-btn-disabled-bg: transparent; /* Keep background transparent for disabled state */
+    --bs-btn-disabled-border-color: #504945; /* Dark brown border for disabled state, matching sidebar */
+    --bs-gradient: none; /* No gradient, keeping it simple and flat */
+  }
+
+  color-scheme: dark;
+}
+
+html:not([data-mode]) #archives li:nth-child(odd),
+html[data-mode='dark'] #archives li:nth-child(odd) {
+  background-image: linear-gradient(
+    to left,
+    #282828,
+    /* Dark Gruvbox base color */ #3c3836,
+    /* Slightly lighter brownish-gray */ #504945b6,
+    /* A bit lighter for a subtle highlight */ #3c3836aa,
+    /* Returning to the lighter brownish-gray */ #282828
+  ); /* Dark Gruvbox base color */
+}
