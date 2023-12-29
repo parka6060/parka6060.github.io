@@ -1,6 +1,6 @@
 ---
 title: A place to write
-date: 2023-12-07 12:00:00 -500
+date: 2023-12-28 12:00:00 -500
 categories:
   - Personal Reflection
 tags:
