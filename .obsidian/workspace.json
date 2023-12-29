@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-10-youre-not-changing-their-mind.md",
+                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-10-youre-not-changing-their-mind.md",
+                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-10-youre-not-changing-their-mind.md",
+                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-10-youre-not-changing-their-mind.md"
+                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "6dd2c5d26f90e084",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_posts/2023-12-07-curation-over-consumption.md",
+    "_posts/2023-11-25-my-strategy-for-organizing-digital-art-files.md",
+    "_posts/2023-10-14-stop-and-smell-the-roses.md",
+    "_posts/2023-01-10-youre-not-changing-their-mind.md"
+  ]
 }

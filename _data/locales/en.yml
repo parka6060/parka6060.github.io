@@ -46,7 +46,7 @@ not_found:
   statment: Sorry, I misplaced that URL or it's pointing to something that doesn't exist.
 
 notification:
-  update_found: A new version of this post is available!
+  update_found: Sadbox.co just updated!
   update: Unbox 📦
 
 # ----- Posts related labels -----
