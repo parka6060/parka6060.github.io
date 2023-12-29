@@ -11,12 +11,8 @@
             "id": "6dd2c5d26f90e084",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,20 +140,27 @@
   },
   "active": "6dd2c5d26f90e084",
   "lastOpenFiles": [
+    "_posts/2023-12-28-a-place-to-write.md",
+    "_posts/2023-11-27-how-much-art-can-you-store-with-15gb-of-cloud-storage.md",
+    "_posts/2023-11-25-my-strategy-for-organizing-digital-art-files.md",
+    "_site/assets/img/Pasted image 20231228230124.png",
+    "_site/Pasted image 20231228230124.png",
+    "assets/img/Pasted image 20231228230124.png",
+    "_site/assets/img/pexels-photo-1166643.webp",
+    "assets/img/pexels-photo-1166643.webp",
+    "_site/posts/a-place-to-write/index.html",
+    "_site/posts/a-place-to-write",
+    "_site/page2/index.html",
+    "_site/page2",
+    "_site/tags/writing/index.html",
+    "_site/tags/writing",
+    "_posts/2023-12-07-curation-over-consumption.md",
+    "_posts/2023-01-10-youre-not-changing-their-mind.md",
+    "sky.md",
     "_site/assets/css/jekyll-theme-chirpy.scss",
     "_site/assets/css/jekyll-theme-chirpy.css.map",
     "assets/css/jekyll-theme-chirpy.scss",
     "_site/assets/css/style.css.map",
-    "_site/assets/css/style.css",
-    "assets/css/style.scss",
-    "_site/assets/css/jekyll-chirpy-theme.css.map",
-    "_site/assets/css/jekyll-chirpy-theme.css",
-    "_site/assets/css/jekyll-chirpy-theme.scss",
-    "assets/css/jekyll-chirpy-theme.scss",
-    "assets/css",
-    "_posts/2023-12-07-curation-over-consumption.md",
-    "_posts/2023-11-25-my-strategy-for-organizing-digital-art-files.md",
-    "_posts/2023-10-14-stop-and-smell-the-roses.md",
-    "_posts/2023-01-10-youre-not-changing-their-mind.md"
+    "_posts/2023-10-14-stop-and-smell-the-roses.md"
   ]
 }
