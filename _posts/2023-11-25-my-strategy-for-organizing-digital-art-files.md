@@ -39,6 +39,7 @@ Within my year folder, I keep all of my raw work files without further sub-categ
 - **Status:** This section is exclusively used to label a drawing as a work in progress (WIP).
 
 ![Example of my naming convention in my 2023 folder.](/assets/img/msfo_2.png)
+
 Example of my naming convention in my 2023 folder.
 
 By following this naming convention, I can easily search, sort, and locate specific drawings based on their content instead of vague naming. Your file name isn't crucial since you'll typically browse via thumbnail, but this naming method makes it easy to search your drawings when you have a lot of them.
