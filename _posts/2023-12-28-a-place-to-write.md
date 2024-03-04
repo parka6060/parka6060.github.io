@@ -1,6 +1,6 @@
 ---
 title: A place to write
-date: 2023-12-28 12:00:00 -500
+date: '2023-12-28 12:00:00 -500'
 categories:
   - Personal Reflection
 tags:
@@ -8,6 +8,7 @@ tags:
   - digital-habits
 image:
   path: /assets/img/pexels-photo-1166643.webp
+published: false
 ---
 
 A place to write is important for anyone who wants to share their thoughts and ideas with others. I value my place to write. It is a digital space intended only for me, and what separates it from a tweet or an Instagram story is that it is unequivocally my own. It allows me to offer my words a sense of ownership and permanence. I'm not writing to feed an algorithm or post an opinion that fits the moment. The content is not reactionary to the waterfall of digital media but intentional in how I think.
