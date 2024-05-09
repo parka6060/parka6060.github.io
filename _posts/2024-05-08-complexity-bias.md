@@ -7,7 +7,7 @@ tags:
   - mindset
   - beliefs
 image:
-  path: /assets/img/complexity.jpeg
+  path: /assets/img/complexity.jpg
 ---
 *Complexity bias* is our tendency to favour complex explanations and solutions over simple ones; it's a phenomenon that affects various aspects of our lives and is a part of the significant issue of culture that I'd enjoy talking about some other day. Complexity bias is why we endlessly debate with each other, whether it's your diet, exercise routine, or everyday decision-making. It's why the internet is filled with course sellers, spiritual gurus, and Andrew Tates; they're trying to commodify our desires for the most advanced, cutting-edge information. And it's why I find myself trying to figure out the best ways to do things, when there's no need for complexity.
 
