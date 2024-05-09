@@ -1,4 +1,5 @@
 ---
+title: Complexity bias
 date: '2024-05-08 12:00:00 -500'
 categories:
   - Personal Reflection
