@@ -23,4 +23,4 @@ Here are a couple of examples of complexity bias I've experienced.
 
 ...etc... ...etc... ...etc... ...etc...
 
-The consequences of this bias extend far beyond personal decision-making. It infiltrates our friendships, our work, and our politics. We are surrounded by jargon-filled explanations that obscure us from experience and understanding. A lot of the answers to questions are more straightforward than you can imagine. The path to redemption is not shrouded in mystery; it is a matter of putting one foot in front of the other. 
+The consequences of this bias extend far beyond personal decision-making. It infiltrates our friendships, our work, and our politics. We are surrounded by jargon-filled explanations that obscure us from experience and understanding. A lot of the answers to questions are more straightforward than you can imagine. The path to redemption is not shrouded in mystery; it is a matter of putting one foot in front of the other.
