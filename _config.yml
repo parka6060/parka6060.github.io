@@ -14,15 +14,15 @@ timezone: America/Vancouver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: En's Personal Site # the main title
+title: Unboxed # the main title
 
-tagline: Writing & shower thoughts from Eninabox. # it will display as the sub-title
+tagline: A personal website for writing & shower thoughts from @Eninabox. # it will display as the sub-title
 
 description:  # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://parka6060.github.io"
+url: "blog.eninabox.art"
 
 # github:
 #   username: github_username # change to your GitHub username
@@ -37,7 +37,7 @@ social:
   email: hello@sadbox.co # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/eninabox # change to your twitter homepage
+    - https://bsky.app/profile/eninabox.art # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

@@ -13,7 +13,7 @@ Have you ever been in an argument where the other person seemed oblivious to the
 
 Beliefs act as mental models that shape how we perceive the world. And once these models are formed, they become resistant to change.
 
-I found many intriguing takeaways from Dave Gray's book "Liminal Thinking," which can be applied to conflict resolution. Here I discuss my reflections on these ideas.
+I found many takeaways from Dave Gray's book "Liminal Thinking," which can be applied to conflict resolution. Here I discuss my reflections on these ideas.
 
 ## The Pyramid of Belief
 

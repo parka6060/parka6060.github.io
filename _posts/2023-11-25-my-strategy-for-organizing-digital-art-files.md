@@ -11,7 +11,7 @@ image:
   path: /assets/img/20210730en_png_gamershirt.png
 ---
 
-I'm a data hoarder! For seven years I've saved almost every art file I've made on my computer. Although my file management system wasn't perfect during that time, I eventually had to confront the mess and put a better system in place. Now, I'd like to share how it works. This is how I manage my digital art files.
+I'm a data hoarder. For seven years I've saved almost every art file I've made on my computer. Although my file management system wasn't perfect during that time, I eventually had to confront the mess and put a better system in place. Now, I'd like to share how it works. This is how I manage my digital art files.
 
 There are several key aspects to keeping your files organized: grouping, naming, backups, and long-term storage.
 
